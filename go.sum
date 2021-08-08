@@ -1,0 +1,5 @@
+github.com/cn-joyconn/go-modbus v0.1.1 h1:IIpadFi/5IPqhk55a20REynm78Lk++oywjqrPoJQtsw=
+github.com/cn-joyconn/go-modbus v0.1.1/go.mod h1:4GS8EKdQVSY3geH3b5lNCkTemNr4suFypHGpgPqSEk8=
+github.com/cn-joyconn/go-serial v0.1.0/go.mod h1:DeUolVTu1Ek2WS/w8iwyJ3NmfUIisooWdiJKl+LqgBg=
+github.com/cn-joyconn/go-serial v0.1.1 h1:IP0E4qNOPo7BY+WUGWzYjH1wNW36B2emLKX3K2Fd4WY=
+github.com/cn-joyconn/go-serial v0.1.1/go.mod h1:GbpJ46toA0735wZZlCrW9TnIofrG0Xx5Hi1lJSCAdl8=
